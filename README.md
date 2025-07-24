@@ -1,4 +1,4 @@
-# 📘 README
+
 
 👋 **Hi, I'm yael cohen**  
 💻 Software Developer specializing in **DevOps**, **cloud systems**, and **full-stack development**.  
