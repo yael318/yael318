@@ -32,6 +32,3 @@ Looking for **challenging roles** where I can:
 
 ---
 
-## 📝 Personal Note
-
-When I’m not coding, I enjoy hiking, exploring nature 🌿, and staying active 🏃‍♀️
